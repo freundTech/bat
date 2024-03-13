@@ -16,6 +16,7 @@ updates:
     interval: monthly
     time: "04:00"
     timezone: Europe/Berlin
+    open-pull-requests-limit: 100
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
